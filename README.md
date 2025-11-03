@@ -2,6 +2,9 @@
 
 A comprehensive blockchain analytics dashboard built with Hardhat, Solidity, Ethers.js, and React. This application provides real-time on-chain data analysis, transaction tracking, and address analytics with a beautiful, production-ready interface.
 
+
+![image alt](https://github.com/Abir-swe-dev/On-Chain-Analytics-Dashboard-Using-Solidity-Hardahat-Vite-React-Etherjs-/blob/196d49385e9aa23934262d6de8b50e28cb422c09/Capture.PNG)
+
 ## Features
 
 - **Real-time Blockchain Analytics**: Track transactions, addresses, and network statistics
